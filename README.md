@@ -71,4 +71,5 @@ The repo includes a pre-trained model: face_model. This can directly be used for
 Demos with other images can be seen here: https://youtu.be/N4GIGVnyNBo 
 
 Output of demo.py:
-![Alt text](demo_result.png?raw=true)
+![Alt text](demo_result.png?raw=true
+waiwick el besto jungla
